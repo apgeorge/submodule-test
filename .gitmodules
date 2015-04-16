@@ -1,0 +1,3 @@
+[submodule "go-test-app"]
+	path = go-test-app
+	url = git@github.com:apgeorge/go-test-app.git
